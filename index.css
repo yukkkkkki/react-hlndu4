@@ -1,0 +1,16 @@
+.site-tree-search-value {
+  color: #f50;
+}
+
+.test {
+  display: flex;
+  width: 340px;
+  justify-content: space-between;
+  align-items: center;
+}
+.test:hover {
+  cursor: pointer;
+}
+.test:active {
+  background: red;
+}
